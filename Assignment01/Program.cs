@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            const string  GameTitie = "pee rai"; 
+
+            var heroName = "John";
+            var herorank = 1;
+
         }
     }
 }
